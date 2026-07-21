@@ -1,5 +1,3 @@
-Aqui está o texto do **`README.md`** completo e formatado. Basta copiar todo o conteúdo do bloco de código abaixo, colar em um editor de texto (como o Bloco de Notas ou VS Code) e salvar o arquivo com o nome **`README.md`**:
-
 ```markdown
 # 📊 Dashboard de Análise de Margem de Contribuição & DRE Executiva
 
